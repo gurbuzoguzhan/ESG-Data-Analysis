@@ -1,1 +1,2 @@
 # ESG-Data-Analysis
+This repository contains the code and dataset for the ESG-Exploratory Data Analysis project. The main goal of this project is to examine the Environmental, Social, and Governance (ESG) data and underscore variances among different sectors and industries. It uses data analysis and visualization techniques to provide insights into ESG risk scores and trends.
